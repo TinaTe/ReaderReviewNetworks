@@ -3,14 +3,14 @@ baseurl: "/ReaderReviewNetworks"
 url: "https://TinaTe.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
-title: Tina Ternes Master Thesis                                  # site's title
+title: Tina Ternes' Master's Thesis                                  # site's title
 description: "A website with additional information to my masters thesis"      # used by search engines
 avatar:  assets/img/icon_net.png                         # Empty for no avatar in navbar
 favicon:  assets/img/icon_net.png                             # Icon displayed in the tab
 
 # Header and footer text
 header_text: Using networks to navigate a corpus of reader reviews <br> <i> An explorative study of absorption expressions in different genres </i>  # Change Blog header text
-header_feature_image: assets/img/header/DarkNet.png
+header_feature_image: assets/img/header/darknet.png
 header_feature_image_responsive: true
 footer_text: >
   Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>

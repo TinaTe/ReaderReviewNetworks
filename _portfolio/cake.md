@@ -2,7 +2,7 @@
 layout: post
 title: Cluster 12 - Romance
 feature-img: "assets/img/portfolio/clusters_black.png"
-img: "assets/img/portfolio/Cluster12.png"
+img: "assets/img/portfolio/cluster12.png"
 ---
 
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium,
