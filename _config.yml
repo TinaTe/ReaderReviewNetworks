@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
-baseurl: "ReaderReviewNetworks/"
-url: "https://TinaTe.github.io/"
+baseurl: "/ReaderReviewNetworks"
+url: "https://TinaTe.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
 title: Tina Ternes' Master's Thesis                                  # site's title
