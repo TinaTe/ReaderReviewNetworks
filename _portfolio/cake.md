@@ -2,7 +2,7 @@
 layout: post
 title: Cluster 12 - Romance
 img: "assets/img/portfolio/cluster12.png"
-feature-img: "assets/img/feature_img/clusters_black.png"
+feature-img: "assets/img/portfolio/clusters_black.png"
 
 ---
 

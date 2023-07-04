@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cluster 01 - Science Fiction
-feature-img: "assets/img/feature_img/clusters_black.png"
+feature-img: "assets/img/portfolio/clusters_black.png"
 img: "assets/img/portfolio/cluster01.png"
 
 ---
