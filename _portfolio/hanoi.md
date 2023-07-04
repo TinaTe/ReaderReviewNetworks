@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Cluster 04 - Mystery
-feature-img: "assets/img/portfolio/clusters_black.png"
-img: "assets/img/portfolio/Cluster04.png"
+feature-img: "assets/img/feature_img/clusters_black.png"
+img: "assets/img/portfolio/cluster04.png"
 ---
 
 ![image]({{ page.img | relative_url }})

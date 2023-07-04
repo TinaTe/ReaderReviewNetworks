@@ -1,9 +1,8 @@
 ---
 layout: post
 title: Cluster 11 - Romance
-feature-img: "assets/img/portfolio/clusters_black.png"
-img: "assets/img/portfolio/Cluster11.png"
-date: September 2014
+feature-img: "assets/img/feature_img/clusters_black.png"
+img: "assets/img/portfolio/cluster11.png"
 ---
 
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium,
