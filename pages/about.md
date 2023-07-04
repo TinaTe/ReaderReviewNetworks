@@ -2,7 +2,7 @@
 layout: page
 title: Data
 permalink: /data/
-feature-img: "assets/img/header/DarkNet.png"
+feature-img: "assets/img/header/darknet.png"
 ---
 * TOC
 {:toc}

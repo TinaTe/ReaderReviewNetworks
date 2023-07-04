@@ -2,7 +2,7 @@
 layout: page
 title: Networks
 permalink: /Networks/
-feature-img: "assets/img/header/DarkNet.png"
+feature-img: "assets/img/header/darknet.png"
 ---
 
 This is a photo gallery made from the static files in the `assets/img/pexels` folder.
