@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Cluster 07 - Horror/Thriller
-img: "assets/img/portfolio/cluster07.png"
 feature-img: "assets/img/portfolio/clusters_black.png"
+img: "assets/img/portfolio/cluster07.png"
 ---
 
 ![image]({{ page.img | relative_url }})
