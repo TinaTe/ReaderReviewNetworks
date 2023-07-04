@@ -16,5 +16,5 @@ Since Fantasy was massively overrepresented in the data, it was filtered to excl
 {% include genre_overview.html %}
 {% include genre_filtered_overview.html %}
 ## Distribution of Annotations
-{% include plotly/annotations_genre.html %}
-# Preliminary Analysis
+test
+<iframe src="https://tinate.github.io/jubilant-octo-doodle/" height="600" width="100%"></iframe>
