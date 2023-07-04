@@ -1,0 +1,17 @@
+---
+layout: post
+title: Abstract (English)
+tag: abstract
+---
+
+This research demonstrates the value of network analysis as a powerful tool for identifying meaningful clusters within collections of reader reviews. The data basis for this study
+is the AbsORB corpus, where 1025 reviews from Goodreads were manually annotated for
+instances of absorption using the Story World Absorption Scale (SWAS).
+The investigation focuses on a subcorpus consisting of 199 reading reviews for 49 books
+across the genres of Fantasy, Romance, Horror/Thriller, Mystery, and Science Fiction. The
+data is incorporated into a network based on text-similarity as measured by TF-IDF and
+clustered using the Louvain algorithm. The subsequent qualitative analysis is guided by
+the examination of keywords and concordances.
+Initial attempts at network construction revealed that Fantasy reviews introduced noise
+into the overall classification of genres. Consequently, these reviews were excluded from
+the corpus. Although genre is not the primary discriminating factor, Mystery and Romance reviews exhibit greater distinctiveness compared to the other genres. Additionally, the language employed in absorption statements proves to be a significant discriminator during the clustering process, as they are frequently reflected in the keywords associated with each cluster. Furthermore, reviews that deviated from the absorption patterns of the genre in general tend to form separate clusters.

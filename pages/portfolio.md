@@ -1,10 +1,8 @@
---- 
+---
 layout: page
-title : Portfolio 
-permalink: /portfolio/
-subtitle: "Projects I am working on" 
-feature-img: "assets/img/pexels/computer.jpeg"
-tags: [Page]
+title : Cluster Analysis
+permalink: /cluster/
+feature-img: "assets/img/header/DarkNet.png"
 ---
 
 {% include portfolio.html %}
