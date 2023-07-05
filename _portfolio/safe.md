@@ -18,3 +18,15 @@ vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
 
 Use this area of the page to describe your project.
 The icon above is part of a free icon set by Flat Icons.
+
+
+![Annotation Dimensions per Genre]({{ "/assets/img/plots/keyness_08.png" | relative_url}})
+
+| Category               | Keyword                                      |
+|------------------------|----------------------------------------------|
+| Genre                  | science, fiction, horror                     |
+| Experience             | creepy                                       |
+| General descriptors    | idea, concept, essay, society, genre, ill    |
+| Content                | device, astronaut, machine, human, animal    |
+| Additional information | movie, film, october                         |
+| Other                  | produce, recommend                           |

@@ -16,3 +16,14 @@ adipisci velit, sed quia non numquam eius <a>modi tempora incidunt</a> ut labore
 Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur?
 Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur,
 vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
+
+![Annotation Dimensions per Genre]({{ "/assets/img/plots/keyness_07.png" | relative_url}})
+
+| Category               | Keyword                                                                                                                        |
+|------------------------|--------------------------------------------------------------------------------------------------------------------------------|
+| Genre                  | none                                                                                                                           |
+| Experience             | reader, mind, world                                                                                                            |
+| General descriptors    | layer, tale, third, person, text                                                                                               |
+| Content                | present, human, apocalyptic, person, vampire, human, animal, year,   use, gender, language, small, mind,   ago, body, world    |
+| Additional information | year, ago, final                                                                                                               |
+| Other                  | none                                                                                                                           |

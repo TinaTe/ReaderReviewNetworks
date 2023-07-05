@@ -17,3 +17,16 @@ adipisci velit, sed quia non numquam eius <a>modi tempora incidunt</a> ut labore
 Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur?
 Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur,
 vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
+
+
+![Annotation Dimensions per Genre]({{ "/assets/img/plots/keyness_01.png" | relative_url}})
+
+
+| Category               | Keyword                                                 |
+|------------------------|---------------------------------------------------------|
+| Genre                  | sci, fi                                                 |
+| Experience             | feel, satisfying, enough, chill, able, terrifying, seat |
+| General descriptors    | half, random, really, main, character                   |
+| Content                | police, checkpoint, campus, camp                        |
+| Additional information | podcast, sequel                                         |
+| Other                  | none                                                    |

@@ -16,3 +16,14 @@ adipisci velit, sed quia non numquam eius <a>modi tempora incidunt</a> ut labore
 Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur?
 Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur,
 vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
+
+![Annotation Dimensions per Genre]({{ "/assets/img/plots/keyness_04.png" | relative_url}})
+
+| Category               | Keyword                                                       |
+|------------------------|---------------------------------------------------------------|
+| Genre                  | mystery                                                       |
+| Experience             | thrilling, interesting, solve(1), figure, pay, happen, author |
+| General descriptors    | book, different, twist, clue, puzzle, information, really     |
+| Content                | panel, host, solve, mystery, happen                           |
+| Additional information | series, version, copy, happen, author                         |
+| Other                  | none                                                          |
