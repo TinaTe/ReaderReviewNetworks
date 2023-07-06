@@ -28,6 +28,27 @@ The above graph on the left showcases that all clusters have rather distinct abs
 <br>To see a bigger version, the graph can be opened in a new <a href="https://tinate.github.io/jubilant-octo-doodle/tags_per_cluster.html" target="_blank" rel="noopener noreferrer">tab</a>.
 <iframe src="https://tinate.github.io/jubilant-octo-doodle/tags_per_cluster.html" height="600" width="100%"></iframe>
 
+## Distribution of Genre-Absorption into clusters
+The following alluvial plots show how the absorption dimensions and subcategories of the individual genres and their distribution across the clusters.
+
+### Science Fiction
+
+![Alluvium Science Fiction]({{ "/assets/img/plots/alluvium_sciencefiction.png" | relative_url}})
+
+### Mystery
+
+![Alluvium Mystery]({{ "/assets/img/plots/alluvium_mystery.png" | relative_url}})
+
+### Horror/Thriller
+
+![Alluvium Horror/Thriller]({{ "/assets/img/plots/alluvium_horrorthriller.png" | relative_url}})
+
+### Romance
+
+![Alluvium]({{ "/assets/img/plots/alluvium_romance.png" | relative_url}})
+
+
+
 
 # Individual Cluster Analysis
 

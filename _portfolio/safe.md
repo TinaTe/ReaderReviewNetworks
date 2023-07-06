@@ -5,22 +5,15 @@ feature-img: "assets/img/portfolio/clusters_black.png"
 img: "assets/img/portfolio/cluster08.png"
 ---
 
+![image]({{ page.img | relative_url }})
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium,
-totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-Nemo enim ipsam voluptatem <a>quia voluptas sit aspernatur</a> aut odit aut fugit,
-sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.
-Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit,
-sed quia non numquam eius <a>modi tempora incidunt</a> ut labore et dolore magnam aliquam quaerat voluptatem.
-Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur?
-Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur,
-vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
+Cluster 08 is precisely half Science Fiction (5) and half Horror/Thriller (5), containing 20 % of all Science fiction and 17 % of all Horror/Thriller reviews in the network. Looking at the network graph, the cluster connects to the Mystery (04) and the Science Fiction cluster (01) as well as the second Romance cluster (12). Another striking aspect of this cluster is its internal structure where we see a rather strict division between Horror/Thriller and Science Fiction reviews. However, two reviews constitute exceptions in that they are located on the opposite side of where they would have belonged in terms of genre. Upon closer investigation of these outliers, the Horror/Thriller-review in the Science Fiction part of the cluster itself is described as “suspense with just a touch of horror/science fiction” (Harbor12609697). Meanwhile, the review on the Science Fiction novel on the Horror/Thriller part of the cluster is not formulated as one would expect given the respective genre, but rather seems to describe a book one would attribute to the Horror genre: “It left me with nightmares that only made me want to read more. This book is thrilling, creepy, and addicting” (Contagion12842600).
 
-Use this area of the page to describe your project.
-The icon above is part of a free icon set by Flat Icons.
-
+The dispersion of absorption annotations aligns with the observations gained by examining the genres in the preliminary analysis which are highest in attention and impact, specifically Anticipation and Wish to Reread. Contrary to cluster 01, there is only a very small amount of Emotional Engagement. This is also reflected in the keyness graph, where character is deemed as one of the words that are unlikely to appear in this cluster.
 
 ![Annotation Dimensions per Genre]({{ "/assets/img/plots/keyness_08.png" | relative_url}})
+
+The keywords reveal the genres included in the cluster: “science fiction” and “horror”. What can be observed here is that readers in this cluster prefer the word “science fiction” to “sci fi” as it is used in cluster 01, while the word “genre” itself is among the keywords that serve as general descriptors along with “ill”, “idea”, “concept”, “essay” and “society”. Furthermore, words that belong to the category additional information (“movie” and “film”) as well as the experience “creepy” are amongst them.
 
 | Category               | Keyword                                      |
 |------------------------|----------------------------------------------|
@@ -30,3 +23,10 @@ The icon above is part of a free icon set by Flat Icons.
 | Content                | device, astronaut, machine, human, animal    |
 | Additional information | movie, film, october                         |
 | Other                  | produce, recommend                           |
+
+What is noticeable in this regard is that the keywords referring to content are all part of Science Fiction reviews, which can partly be explained by the longest review thoroughly describing the plot of 2001. A space Odyssey (200110466579), elaborating on “animal”, “astronaut” and “device”. However, “human” seems to be a frequently used word in Science Fiction since the human characters are distinguished from androids or other species. Since this novel is intricately associated with the film version, it is no surprise that the words “movie” and “film” play such an important role and that this cluster encompasses all reviews for it. But they are also reflected in Horror/Thriller reviews that don’t mention an existing film version by declaring their love for the cinematographic format of this genre or wishing for a film version of the book they read: “This is the perfect set up for one of those cheesy horror movies that you hate to love (or love to love in my case)” (WelcomeToTheDa12795201).
+
+The keyword "genre" is not specific to Science-Fiction- or Horror/Thriller-reviews but found in both categories: “They created a new genre inside the science-fiction kind of movies” (200110466579); “It is near to impossible to produce a timeless piece of science fiction. Concepts and ideas date badly in the genre” (200110466664); “it doesn’t fall into the ‘torture porn' category of the horror genre” (Harbor12609697).
+
+The examples for the discussion of the Science Fiction titles lead to the assumption that the books discussed here belong to the “classics” of the genre, which could be an explanation for reviewers preferring to spell out their genre classification, taking a more serious approach than reviewers in cluster 01, who preferred the shorthand “sci fi”. <br>
+Furthermore, most of the Science Fiction reviews in this cluster focused more on the book content, especially reflecting on the ideas discussed: “I loved HAL, and being a psychologist I could comprehend exactly what was going on in his electronic mind. Remember: we cannot create things from nothing, so if we create a mind, it must be in some parte [sic] human, with human responses.” (200110466579); “While reading I didn’t see the book as a story, but an essay on two ideas of robotics wrapped in literary style” (NakedSun13537879). They frame their reading as more of an intellectual exercise than reading for entertainment, which is also reflected in the descriptors “idea”, “concept”, “essay” and “society”, distinguishing them from the Science Fiction reviews in cluster 01 that are more drawn to the dystopian feel, focusing on the story. However, the Horror/Thriller reviews in this cluster are significantly less formal, as is reflected in the common denominator “creepy”. Unlike the Horror/Thriller reviews in the first cluster, there is a greater focus on the actual experience than on the textual devices that caused it, sometimes referring to circumstances that added to their fear or how it affected them afterwards: “It is haunting to say the very least, te [sic] kind of book that I [...] definitely should not have been reading right before bed!” (Harbor12609697); “I find myself thinking about this story often, especially when I am alone at night walking past a mirror in my house, which is exactly what I love about reading creepy stories!” (Mary12749568)
