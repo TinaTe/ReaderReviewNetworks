@@ -32,6 +32,10 @@ As we can see in the keywords “chill” and “terrifying” describing the ex
 
 The verb “feel” occurs 17 times in the cluster, eight times in seven of the 38 absorption-statements. Even though one would instinctively associate that with the expression of emotion (especially given that this cluster contains a lot of references to the Horror genre) having a closer look at the usage of this term in context paints a different picture. About half of the times “feel” comes up, it is used to describe the atmosphere or in relation to the characters. In the other half, however, “feel” is often used as a hedging-device[^2] to positively or negatively critique writing and plot while not claiming their stance to be read as objective truth, but as their subjective experience: “This whole book felt like it could be a short story that was bloated” (FlowMyTearsThe13596533).
 
+<details  markdown="1">
+
+  <summary>Click to see concordance of "feel"</summary>
+
 | **docname**                | **pre**                                             | **key word** | **post**                                                       |
 | ---------------------- | ----------------------------------------------- | -------- | ---------------------------------------------------------- |
 | **Atmosphere**             |
@@ -55,6 +59,8 @@ The verb “feel” occurs 17 times in the cluster, eight times in seven of the 
 | **Plot**                   |
 | FlowMyTearsThe13596533 | WHY the main character doesn't exist . . . it   | feels    | . . . bizarre ? absurd ? not really satisfying             |
 | WelcomeToTheDa12795153 | it was setting up for the sequel , but I        | felt     | like I didn't really get any closure with this book        |
+
+</details>
 
 Lastly, it is noticeable that according to the keyness-analysis the word “author” is used significantly less frequently in this cluster (zero times) than in the overall corpus. Nevertheless, approximately half of the reviews do mention the author, albeit by name, which due to the data-cleaning is not reflected in that observation.
 
