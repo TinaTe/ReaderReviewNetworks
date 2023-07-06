@@ -22,7 +22,7 @@ By analyzing the distribution of tokens in the analyzed subcorpora we can discer
 ## Distribution of Annotations
 As can be seen here, there is a maximum of five reviews per book and the number of annotations varies widely between them.
 <p align="center">
-<img style="padding:0;margin:0;border:0" src="{{ "/assets\img\plots\reviews_per_title.png" | relative_url}}" width="49%"/><img style="padding:0;margin:0;border:0" src="{{ "/assets\img\plots\Annotations_per_title.png" | relative_url}}" width="49%"/>
+<img style="padding:0;margin:0;border:0" src="{{ "/assets/img/plots/reviews_per_title.png" | relative_url}}" width="49%"/><img style="padding:0;margin:0;border:0" src="{{ "/assets/img/plots/Annotations_per_title.png" | relative_url}}" width="49%"/>
 </p>
 # Preliminary Analysis
 This figure shows the frequency distribution of the SWAS-dimensions in the analyzed genres. Impact seems to encompass the highest frequency of annotations (at least 30% in every genre), while Mental Imagery and Transportation seem to be phenomena that are encountered more seldomly. Furthermore, the Romance genre has distinctively more annotations in the dimension of Emotional Engagement than any other genre and fewer annotations in the dimension of Attention. Another genre with a very distinct pattern in the Absorption-dimensions is Science Fiction with almost half of its annotations belonging to the Impact dimension, which is more than any of the other genres. This is followed by the Attention dimension with almost 3o% of annotations and a lower score for the rest of the dimensions, compared to the other genres (particularly for Emotional Engagement and Mental Imagery).
