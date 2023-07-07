@@ -16,14 +16,15 @@ Regarding the absorption dimensions of this cluster, there is a clear dominance 
 As genre descriptors we find “romance” and “ya” (Young Adult), which suggests overlaps of these genres in the cluster. Unlike the other clusters, the genre description “romance” is not as distinctive for this cluster as can be seen in the keyness graph. On the one hand, this seems surprising since just like “Mystery”, “Romance” is not only a genre denominator but also the key concept underlying the storylines of this cluster. On the other hand, because the concept of romance is a common one in literature regardless of the genre and because this cluster doesn’t encompass all of the Romance reviews in the network, the term might be quite common throughout the whole corpus. Furthermore, reviewers often describe the books as “love stories”, which could be an expression that fits better into the informal style most of the reviews deploy. This can be seen in the frequent use of capital letters to emphasize words as well as descriptions of bodily reactions inside of asterisks: “I LOVE DEAN HOLDER. I WANT HIM, I NEED HIM...\*exhales the breath I was holding the entire time and sighs*. And most of all, I JUST LOVE THIS BOOK...plain and simple.” (Hopeless781140). Other evidence on the rather informal language are the comments on the reviewers’ own words – “I wasn't especially fond of [...] her damn stubbornness [...] (right Becca, says the girl who is the epitome of stubborn)” (PlayWithMe796976) – direct addressment of the author often by their first name – “Oh, Penelope, where do I start?” (BeautyAndTheMu764001) – and the frequently used slang like “OMG”, “LOL” or seemingly specific to the community: “insta-love”.
 
 
-| Category               | Keyword                                      |
-|------------------------|----------------------------------------------|
-| Genre                  | science, fiction, horror                     |
-| Experience             | creepy                                       |
-| General descriptors    | idea, concept, essay, society, genre, ill    |
-| Content                | device, astronaut, machine, human, animal    |
-| Additional information | movie, film, october                         |
-| Other                  | produce, recommend                           |
+| Category               | Keyword                                                 |
+|------------------------|---------------------------------------------------------|
+| Genre                  | romance, ya                                             |
+| Experience             | love, heart, cry, tear, experience                      |
+| General descriptors    | incredible, smart, hot, strong, smart, vulnerable, weak |
+| Content                | man, love, brother, heart (1), loss, experience         |
+| Additional information | love                                                    |
+| Other                  | who, how, each, although                                |
+
 
 The highest rated term for this cluster is “man”/”men”. It appears 26 times in the cluster, with only ten of these occurrences describing the characters discussed. The rest can be found in general discussions of men, comparing them to the men in their lives: “Men like my father and my uncles. Men I loved with all my heart. Men like Deuce.” (Undeniable759679); “Once again, why haven't I met men like him? Oh right, they only exist in books as far as I am concerned.” (PlayWithMe796976).  This would suggest that Romance readers are mostly straight women. The female protagonists of the books are equally often discussed as their male counterparts. Nonetheless, they are more often seen as points of identification and adoration while men are rather discussed as objects of desire: “I loved them both equally and individually (I loved Echo and was IN LOVE with Noah).” (PushingTheLimi772578).
 
