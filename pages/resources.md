@@ -12,6 +12,7 @@ feature-img: "assets/img/header/darknet.png"
 <object data="../assets/Ternes_Masterarbeit.pdf" width="1000" height="1000" type='application/pdf'></object>
 
 # Poster
+<object data="../assets/Ternes_Poster.pdf" width="1000" height="1000" type='application/pdf'></object>
 
 # Code
 Click to download:<br>
