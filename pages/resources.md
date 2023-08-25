@@ -21,7 +21,7 @@ Click to download:<br>
 - <a href="../assets\rcode\GenreScraping.R">Web scraping script</a><br>
 - <a href="../assets\rcode\teststats.R">Data preparation and preliminary analysis script</a><br>
 - <a href="../assets\rcode\data_cleaning.R">Data cleaning script</a><br>
-- <a href="../assets\rcode\Network_skript.R">Network construction script</a><br>
+- <a href="../assets\rcode\Network_skript.r">Network construction script</a><br>
 - <a href="../assets\rcode\communities.R">Cluster Analysis script</a><br>
 
 # Affiliations
