@@ -5,7 +5,7 @@ tag: abstract
 ---
 
 This research demonstrates the value of network analysis as a powerful tool for identifying meaningful clusters within collections of reader reviews. The data basis for this study
-is the <a href="https://osf.io/nsw6q/">AbsORB</a> corpus, where 1025 reviews from Goodreads were manually annotated for
+is the AbsORB corpus, where 1025 reviews from Goodreads were manually annotated for
 instances of absorption using the Story World Absorption Scale (SWAS).
 The investigation focuses on a subcorpus consisting of 199 reading reviews for 49 books
 across the genres of Fantasy, Romance, Horror/Thriller, Mystery, and Science Fiction. The

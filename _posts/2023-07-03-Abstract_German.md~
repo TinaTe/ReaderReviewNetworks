@@ -4,7 +4,7 @@ title: Abstract (German)
 tag: abstract
 ---
 
-Die vorliegende Arbeit zeigt die Anwendbarkeit von Netzwerkanalysen als leistungsfähiges Werkzeug zur Identifikation aussagekräftiger Cluster in Sammlungen von Leserezensionen. Die Datenbasis für diese Studie bildet das <a href="https://osf.io/nsw6q/">AbsORB</a>-Korpus, in dem 1025 Rezensionen von Goodreads manuell auf Vorkommnis von Absorption anhand der Story
+Die vorliegende Arbeit zeigt die Anwendbarkeit von Netzwerkanalysen als leistungsfähiges Werkzeug zur Identifikation aussagekräftiger Cluster in Sammlungen von Leserezensionen. Die Datenbasis für diese Studie bildet das AbsORB-Korpus, in dem 1025 Rezensionen von Goodreads manuell auf Vorkommnis von Absorption anhand der Story
 World Absorption Scale (SWAS) annotiert wurden.
 Die Untersuchung konzentriert sich auf ein Subkorpus bestehend aus 199 Leserezensionen für 49 Bücher aus den Genres Fantasy, Romance, Horror/Thriller, Mystery und Science Fiction. Die Daten werden in ein Netzwerk integriert, das auf Textähnlichkeit basiert
 und mithilfe des TF-IDF-Verfahrens berechnet wird. Anschließend werden sie mit dem
