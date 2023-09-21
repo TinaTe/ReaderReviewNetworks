@@ -8,7 +8,8 @@ feature-img: "assets/img/header/darknet.png"
 * TOC
 {:toc}
 
-# Corpus
+# Story world Absorption
+<a href="https://osf.io/zf439/">Story World Absorption Scale</a>
 <a href="https://osf.io/nsw6q/">AbsORB metadata corpus of annotated book reviews</a>
 
 # Thesis
