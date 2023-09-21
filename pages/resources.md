@@ -9,8 +9,8 @@ feature-img: "assets/img/header/darknet.png"
 {:toc}
 
 # Story world Absorption
-<a href="https://osf.io/zf439/">Story World Absorption Scale</a>
-<a href="https://osf.io/nsw6q/">AbsORB metadata corpus of annotated book reviews</a>
+- <a href="https://osf.io/zf439/">Story World Absorption Scale</a> <br>
+- <a href="https://osf.io/nsw6q/">AbsORB metadata corpus of annotated book reviews</a>
 
 # Thesis
 <object data="../assets/Ternes_Masterarbeit.pdf" width="1000" height="1000" type='application/pdf'></object>
