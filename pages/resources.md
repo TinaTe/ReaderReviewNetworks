@@ -8,8 +8,9 @@ feature-img: "assets/img/header/darknet.png"
 * TOC
 {:toc}
 
-# Corpus
-<a href="https://osf.io/nsw6q/">AbsORB metadata corpus of annotated book reviews</a>
+# Story world Absorption
+- <a href="https://osf.io/zf439/">Story World Absorption Scale</a> <br>
+- <a href="https://osf.io/nsw6q/">AbsORB metadata corpus of annotated book reviews</a>
 
 # Thesis
 <object data="../assets/Ternes_Masterarbeit.pdf" width="1000" height="1000" type='application/pdf'></object>
