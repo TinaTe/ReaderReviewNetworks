@@ -4,7 +4,7 @@ url: "https://TinaTe.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
 title:      "Tina Ternes"                            # site's title
-description: "A website presenting my master's thesis"      # used by search engines
+description: "Exploring Reader Reviews Using Network Analysis"      # used by search engines
 avatar:  assets/img/icon_net.png                         # Empty for no avatar in navbar
 favicon:  assets/img/icon_net.png                             # Icon displayed in the tab
 
